@@ -52,3 +52,6 @@ body{
 .wall.wall2{
     transform: translate3d(0px,-1700px,0px) rotateY(270deg);
 }
+.wall.wall3{
+    transform: translate3d(-1000px,-1700px,1000px) rotateY(180deg);
+}
